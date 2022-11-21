@@ -535,6 +535,11 @@ M:	Aleksei Mamlin <mamlinav@gmail.com>
 S:	Maintained
 F:	configs/Wexler_TAB7200_defconfig
 
+X96Q PRO TV BOX
+M:	Marcus Cooper <codekipper@gmail.com>
+S:	Maintained
+F:	configs/x96q_pro_defconfig
+
 YONES TOPTECH BD1078 BOARD
 M:	Paul Kocialkowski <contact@paulk.fr>
 S:	Maintained
