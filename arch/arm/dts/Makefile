@@ -674,7 +674,8 @@ dtb-$(CONFIG_MACH_SUN50I_H616) += \
 	sun50i-h616-orangepi-zero2.dtb \
 	sun50i-h313-x96q-lpddr3.dtb \
 	sun50i-h313-x96q-ddr3.dtb \
-	sun50i-h616-tanix-tx6s.dtb
+	sun50i-h616-tanix-tx6s.dtb \
+	sun50i-h616-tanix-tx6s-axp313.dtb
 dtb-$(CONFIG_MACH_SUN50I) += \
 	sun50i-a64-amarula-relic.dtb \
 	sun50i-a64-bananapi-m64.dtb \
